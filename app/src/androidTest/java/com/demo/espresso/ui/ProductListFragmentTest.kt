@@ -46,7 +46,7 @@ class ProductListFragmentTest {
                 )
             )
 
-        // Confirm nav to DetailFragment and display title
+        // Confirm nav to DetailFragment and display titlee
         onView(withId(R.id.textViewProductName)).check(matches(withText(PRODUCTS_IN_TEST.productName)))
     }
 
