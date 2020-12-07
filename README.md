@@ -1,2 +1,2 @@
-# Shopping Cart Demo
-Kotlin shopping cart demo Japanese Food.
+# Delivery Cart Demo
+Kotlin shopping cart demo for Japanese Food Restaurant.
