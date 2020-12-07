@@ -7,38 +7,73 @@ object DummyProductData {
     val products = arrayOf(
         Product(
             1,
-            "Darjelling",
-            "Blue Tea",
-            "https://cdn.shopify.com/s/files/1/1234/1342/products/HT_Blueberry_Green_20_CT_Sachet_2019_64956b82-4b59-4c80-bda1-a075c58ec770_2000x.jpg?v=1580995123",
-            850
+            "Pork Lamen",
+            "Rich soup with pork belly, pasta, sesame and spring onions.",
+            "https://253qv1sx4ey389p9wtpp9sj0-wpengine.netdna-ssl.com/wp-content/uploads/2017/03/Ramen_Noodles.jpg",
+            18
         ),
         Product(
             2,
-            "Assam",
-            "Purple Tea",
-            "https://cdn.shopify.com/s/files/1/1234/1342/products/Tins_20_Count_HT_Black_Currant_2000x.jpg?v=1592413305",
-            750
+            "Salmon Hot Roll",
+            "Fried salmon sushi - Portion with 8 pieces.",
+            "https://blogsakura.com.br/wp-content/uploads/2016/09/BLOG_receitas_hotroll.jpg",
+            8
         ),
         Product(
             3,
-            "Lapsang",
-            "Red Tea",
-            "https://cdn.shopify.com/s/files/1/1234/1342/products/HT_Holiday_1fa7b6bd-521e-4f6c-997a-be8ed9d4856b_2000x.jpg",
-            950
+            "Salmon Temaki",
+            "Rice roll with salmon, sesame and srping onios.",
+            "https://jbchost.com.br/ht/wp-content/uploads/2019/01/temaki-800x533.jpg",
+            7
         ),
         Product(
             4,
-            "Early Grey",
-            "Grey Tea",
-            "https://images-na.ssl-images-amazon.com/images/I/61sd%2BxofntL._SX522_.jpg",
-            350
+            "Mixed Sushi",
+            "Salmon/Tuna/Fish sushi with rice and spring onios.",
+            "https://d1dxs113ar9ebd.cloudfront.net/225batonrouge/2017/02/225GeishaSushi_045_COLOR.jpg",
+            9
         ),
         Product(
             5,
-            "Irish Breakfast",
-            "Green Tea",
-            "https://cdn.shopify.com/s/files/1/1234/1342/products/HT_Ginger_Tea.jpg?v=1564071473",
-            250
+            "Mixed Nigiri",
+            "Mix of 5 different nigiris (Salmon, Fish, Tuna)",
+            "https://mikami.com.br/wp-content/uploads/2015/06/7-informacoes-essenciais-para-entender-a-culinaria-japonesa-mikami.jpg",
+            9
+        ),
+        Product(
+            6,
+            "Tuna Sashimi",
+            "Fresh sliced tuna with sesame and srping onios.",
+            "https://image.freepik.com/fotos-gratis/sashimi-atum-em-uma-placa-de-pedra-vista-do-topo-fechar-se_89816-4801.jpg",
+            10
+        ),
+        Product(
+            7,
+            "Salmon Sashimi",
+            "Fresh sliced Salmon - Portion with 5 pieces.",
+            "https://i.pinimg.com/originals/3f/91/86/3f918633619fcf9fca69a53ca88d2dfc.jpg",
+            10
+        ),
+        Product(
+            8,
+            "Octopus Sashimi",
+            "Fresh sliced Octopus - Portion with 5 pieces.",
+            "https://media-cdn.tripadvisor.com/media/photo-s/05/dc/2b/86/udida-sushi-bar.jpg",
+            10
+        ),
+        Product(
+            9,
+            "Shimeji on Butter",
+            "A portio of fresh shimeji with butter and spring onios.",
+            "https://www.receitasnestle.com.br/images/default-source/recipes/shimeji_na_manteiga_com_cebolinha_alta.jpg",
+            5
+        ),
+        Product(
+            10,
+            "Miso Soup",
+            "Miso soup with tofu and spring onions.",
+            "https://assets.epicurious.com/photos/576450dde047a6cf1ee8268c/master/pass/miso-soup.jpg",
+            3
         )
     )
 }
